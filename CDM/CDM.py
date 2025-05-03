@@ -37,7 +37,7 @@ cur_scr = ""
 def passcheck(event):
 	global cur_scr
 	passcheck_var = passwd.get()
-	if (passcheck_var == "1362"):
+	if (passcheck_var == "1362"): # Unchangeable Password based on clients request O_o
 	#if (True):
 
 		#---------------------------------- First Page ----------------------------------#
